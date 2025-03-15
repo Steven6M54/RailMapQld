@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="railway_rail" id="railway_rail">
+	<SimpleField name="full_id" type="string"></SimpleField>
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="osm_type" type="string"></SimpleField>
+	<SimpleField name="railway" type="string"></SimpleField>
+	<SimpleField name="tunnel" type="string"></SimpleField>
+	<SimpleField name="usage" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="bridge" type="string"></SimpleField>
+	<SimpleField name="operator" type="string"></SimpleField>
+	<SimpleField name="service" type="string"></SimpleField>
+	<SimpleField name="gauge" type="string"></SimpleField>
+	<SimpleField name="electrified" type="string"></SimpleField>
+</Schema>
+<Folder><name>railway_rail</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w172144858</SimpleData>
+		<SimpleData name="osm_id">172144858</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">siding</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1593799,-21.1672215 149.1581954,-21.1670672 149.1577822,-21.1670213 149.1573857,-21.1670106</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w172144865</SimpleData>
+		<SimpleData name="osm_id">172144865</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">siding</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1593952,-21.1672942 149.1580482,-21.1671366 149.1577103,-21.1670891 149.1573857,-21.1670106</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w172144867</SimpleData>
+		<SimpleData name="osm_id">172144867</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="operator">Queensland Rail</SimpleData>
+		<SimpleData name="service">siding</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1594775,-21.1671804 149.1594219,-21.1670291 149.1593559,-21.1668835 149.1592785,-21.166754 149.1591895,-21.1666511 149.1590777,-21.1665459 149.1589531,-21.166448 149.1588104,-21.1663856 149.1586678,-21.1663315 149.1585203,-21.1662963 149.1583509,-21.1662815 149.1581821,-21.1662907 149.158009,-21.1663244 149.1578813,-21.1663738 149.1577618,-21.1664305 149.157604,-21.166518 149.1573783,-21.1666727 149.1572382,-21.1667489 149.1570236,-21.166854 149.156793,-21.166894 149.1564097,-21.166878</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w172144871</SimpleData>
+		<SimpleData name="osm_id">172144871</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="operator">Queensland Rail</SimpleData>
+		<SimpleData name="service">siding</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.157604,-21.166518 149.1578146,-21.1663588 149.158074,-21.1661699 149.1582671,-21.1659962 149.1583529,-21.1658986 149.1584358,-21.1657926 149.1584988,-21.1656686 149.1585491,-21.1655357 149.1585739,-21.1654137 149.1585891,-21.1652946 149.1585848,-21.1651666 149.1585741,-21.1650476 149.1585252,-21.1648798 149.1584397,-21.1647095 149.1583279,-21.1645685 149.1580855,-21.1643398 149.1579987,-21.1642551 149.1576347,-21.1638906</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w174301916</SimpleData>
+		<SimpleData name="osm_id">174301916</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="usage">main</SimpleData>
+		<SimpleData name="layer">1</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1556692,-21.1620501 149.1553601,-21.161671</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w174301950</SimpleData>
+		<SimpleData name="osm_id">174301950</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">siding</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.159154,-21.1824148 149.1592554,-21.1820273 149.159285,-21.1817797 149.159295,-21.1815405 149.1593111,-21.1813035 149.1595198,-21.1798629 149.1595609,-21.1796847 149.159612,-21.1795584 149.1596729,-21.1794447 149.1597538,-21.1793479 149.1598336,-21.1792691 149.1599486,-21.1791881 149.1601024,-21.1791062 149.1602415,-21.1790614 149.1603942,-21.1790406 149.1605761,-21.179039 149.1617268,-21.1791834</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w174301952</SimpleData>
+		<SimpleData name="osm_id">174301952</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="usage">main</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1553601,-21.161671 149.1535902,-21.1593096 149.1515874,-21.156652 149.1507199,-21.1552683 149.1502334,-21.1541318 149.1498944,-21.1528395 149.1496831,-21.1516113</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182535138</SimpleData>
+		<SimpleData name="osm_id">182535138</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="usage">main</SimpleData>
+		<SimpleData name="operator">Queensland Rail</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1586144,-21.1770917 149.1586491,-21.176516 149.158734,-21.1760198 149.1587403,-21.1759832 149.1587725,-21.175819 149.1588428,-21.1754611 149.1592079,-21.1741392 149.1593322,-21.173709 149.1594136,-21.17341 149.1594563,-21.1732087 149.1594872,-21.1730197 149.159669,-21.1717238 149.1598133,-21.1707184 149.1598938,-21.1701882 149.1599084,-21.1700527 149.1599179,-21.169903 149.1599309,-21.1697238 149.1599339,-21.1695709 149.1599245,-21.1694174 149.1599165,-21.1692373 149.1598923,-21.1690272 149.1598589,-21.1688375 149.1598428,-21.1687125 149.1598145,-21.168537 149.1597785,-21.1683573 149.1597461,-21.1681747 149.1596222,-21.1677151 149.1595589,-21.1674692 149.1594775,-21.1671804 149.1594217,-21.1669733 149.1593715,-21.1667565 149.159288,-21.1662977</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182546229</SimpleData>
+		<SimpleData name="osm_id">182546229</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1588514,-21.1755446 149.1589154,-21.1753186 149.159048,-21.1749046 149.1591687,-21.1744695 149.1592626,-21.1741018 149.1593504,-21.1738001 149.1594199,-21.1735395 149.1594788,-21.1732662 149.1595409,-21.172918 149.1597114,-21.1717139 149.1598573,-21.1707353 149.159895,-21.1704654 149.1599367,-21.1701957 149.1599621,-21.1699602 149.1599716,-21.1697279 149.1599689,-21.1695604 149.1599716,-21.1694503 149.1599648,-21.1693149 149.1599475,-21.1691527 149.159926,-21.1690051 149.1598938,-21.1688275 149.1598646,-21.1686105 149.159833,-21.1684182 149.1598083,-21.1682418</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182546231</SimpleData>
+		<SimpleData name="osm_id">182546231</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1586973,-21.1751365 149.1587095,-21.1749742 149.158733,-21.1748148 149.1587879,-21.1744304 149.158872,-21.1738122 149.1591143,-21.1721911 149.1591484,-21.1720574 149.1591973,-21.1718896 149.1592206,-21.1717239 149.1592603,-21.1714589 149.1593452,-21.1708931 149.1594337,-21.1703279 149.1595563,-21.1694481 149.1595778,-21.1693629 149.1596157,-21.1692463 149.1596458,-21.169089 149.15967,-21.1689272</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182546232</SimpleData>
+		<SimpleData name="osm_id">182546232</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1593574,-21.1739649 149.1595122,-21.1734017 149.1595519,-21.1732242 149.1597391,-21.1719496 149.1599821,-21.1702641 149.1600039,-21.1700405 149.16002,-21.1697903 149.1600238,-21.169535 149.1600157,-21.1693949 149.1600118,-21.1692802 149.1599984,-21.1691327 149.1599782,-21.1689847 149.1599501,-21.168815 149.1599072,-21.1686499 149.1598709,-21.1685145 149.1598376,-21.1683601 149.1598083,-21.1682418 149.1597788,-21.1681374 149.1596925,-21.1678344 149.1594981,-21.1671125 149.159288,-21.1662977</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182546236</SimpleData>
+		<SimpleData name="osm_id">182546236</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1585611,-21.1766263 149.1586419,-21.1763091 149.1586884,-21.1760464 149.1587604,-21.1755535 149.1588054,-21.1752453 149.1589198,-21.1748332 149.1591223,-21.1741322 149.1592477,-21.1736788 149.1593399,-21.1733385 149.1593834,-21.1730884 149.1594497,-21.1726511 149.1595821,-21.1717259 149.1597349,-21.1706638 149.1597824,-21.1703373 149.1598144,-21.1701027 149.1598358,-21.1698848 149.1598387,-21.1697426 149.1598268,-21.1695604 149.1598214,-21.1693803 149.159816,-21.1692177 149.1597946,-21.1690401 149.1597624,-21.1688625 149.1597448,-21.1686896 149.1597413,-21.168576 149.1597335,-21.1683813</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182546240</SimpleData>
+		<SimpleData name="osm_id">182546240</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1588054,-21.1752453 149.1588224,-21.1751208 149.1588392,-21.1749938 149.1588754,-21.1748151 149.159072,-21.1741262 149.1591492,-21.1738548 149.1591871,-21.1737216 149.15927,-21.1734182 149.1593214,-21.1731842 149.1593697,-21.1728674 149.1595363,-21.1717155 149.1596046,-21.1712363 149.1596591,-21.1708056 149.1597314,-21.1703229 149.159757,-21.1701331 149.1597758,-21.1699556 149.1597919,-21.1697379 149.159785,-21.1695425 149.1597743,-21.1692999 149.1597356,-21.1689976 149.1597099,-21.1687825 149.159678,-21.1684923 149.1596765,-21.1684159 149.1596697,-21.1681543 149.1596712,-21.1679896 149.1596509,-21.1678753 149.1596222,-21.1677151</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182546242</SimpleData>
+		<SimpleData name="osm_id">182546242</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1587604,-21.1755535 149.1588089,-21.1753772 149.1588831,-21.175113 149.1589761,-21.1747843 149.1591596,-21.174123 149.1592653,-21.1737603 149.1593637,-21.1734119 149.1594336,-21.1730282 149.1595086,-21.1725033 149.159624,-21.1717185 149.1597663,-21.170703 149.1598563,-21.1701657 149.1598697,-21.1700031 149.1598762,-21.1698676 149.1598804,-21.1697254 149.1598826,-21.1695714 149.1598781,-21.1694399 149.1598643,-21.1692752 149.1598441,-21.1690672 149.1598119,-21.1688646 149.1597716,-21.168627 149.1597335,-21.1683813 149.1597046,-21.1682038 149.1596712,-21.1679896</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182546247</SimpleData>
+		<SimpleData name="osm_id">182546247</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1591968,-21.1731474 149.1592451,-21.1728658 149.1594064,-21.1717298 149.1595236,-21.1708809 149.1595424,-21.1707459 149.1596068,-21.1703132 149.1596361,-21.1701518 149.1596636,-21.1699617 149.1596676,-21.1697636 149.1596672,-21.1695196</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182548816</SimpleData>
+		<SimpleData name="osm_id">182548816</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="tunnel">yes</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1593225,-21.1687989 149.1592434,-21.169394</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182548818</SimpleData>
+		<SimpleData name="osm_id">182548818</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1593574,-21.1739649 149.1594459,-21.1737623 149.1595263,-21.1735497 149.1595907,-21.1733922 149.159647,-21.1732346 149.1596819,-21.173077 149.1597409,-21.1726068 149.1597716,-21.1724138</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182548819</SimpleData>
+		<SimpleData name="osm_id">182548819</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1588531,-21.1695078 149.1588317,-21.1697154 149.1588263,-21.1698255 149.1588263,-21.1699831 149.1588397,-21.1701106 149.1588915,-21.1702947 149.1589806,-21.1705184 149.1590448,-21.1706555 149.1591145,-21.1708156</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182548820</SimpleData>
+		<SimpleData name="osm_id">182548820</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1590221,-21.1679296 149.1589068,-21.1686899 149.1588048,-21.1694303 149.1587578,-21.1697876 149.1587551,-21.1699777 149.1587887,-21.1701732 149.1588451,-21.1703332 149.1589428,-21.170568 149.1590313,-21.1707956 149.159063,-21.1708667 149.1591294,-21.1710161 149.1591448,-21.171048 149.1591762,-21.1711207 149.1592098,-21.1712537 149.1592452,-21.1713659</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182548821</SimpleData>
+		<SimpleData name="osm_id">182548821</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1584642,-21.1681297 149.1583366,-21.1690773 149.1582898,-21.1694028 149.1582857,-21.169605 149.1583179,-21.1697626 149.1583837,-21.169928 149.1584922,-21.1700802 149.1587014,-21.1703604 149.1588919,-21.1706155 149.159063,-21.1708667</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182548822</SimpleData>
+		<SimpleData name="osm_id">182548822</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1596591,-21.1708056 149.159656,-21.1705972 149.1596636,-21.1703374 149.1596624,-21.1702164 149.159664,-21.1701293 149.1596636,-21.1699617</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w182548823</SimpleData>
+		<SimpleData name="osm_id">182548823</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1587369,-21.1753662 149.1587915,-21.1750177 149.1588361,-21.1747846 149.1589219,-21.174472 149.1589746,-21.1743161 149.1589946,-21.1742572 149.1590303,-21.1741352 149.1590936,-21.1739189 149.1591733,-21.1736262 149.1592015,-21.1734141 149.159236,-21.1731922 149.1592532,-21.1730757 149.1592833,-21.1728701 149.1594459,-21.1717239 149.1595648,-21.1709089 149.1596175,-21.1705233 149.1596624,-21.1702164</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w183427562</SimpleData>
+		<SimpleData name="osm_id">183427562</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1586913,-21.1757051 149.1586986,-21.1755182 149.1586924,-21.175341 149.1586973,-21.1751365 149.1586817,-21.1750672 149.158611,-21.1747241 149.1585756,-21.174503 149.1585614,-21.1743876 149.1585614,-21.1742391 149.1585827,-21.1740345 149.1586164,-21.1737819</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w183427563</SimpleData>
+		<SimpleData name="osm_id">183427563</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1593574,-21.1739649 149.1591346,-21.1747505 149.1590338,-21.1751207 149.1589613,-21.1753872 149.1588945,-21.1756084 149.1587909,-21.1759658 149.1587365,-21.1762933 149.1586981,-21.1765362 149.1586144,-21.1770917</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w183427564</SimpleData>
+		<SimpleData name="osm_id">183427564</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.159678,-21.1684923 149.1596712,-21.1688725 149.15967,-21.1689272 149.1596658,-21.1691302 149.1596672,-21.1695196 149.159588,-21.1700656 149.1595261,-21.1705129 149.1594744,-21.1708881 149.1593399,-21.1718039 149.1592354,-21.1725377 149.1590484,-21.1738125 149.1589746,-21.1743161</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w196013481</SimpleData>
+		<SimpleData name="osm_id">196013481</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1587938,-21.1796444 149.1584909,-21.178941 149.1583807,-21.1783485 149.1583787,-21.1779157 149.1584203,-21.1775495 149.1584859,-21.1771273 149.1585611,-21.1766263 149.1586913,-21.1757051</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w373354962</SimpleData>
+		<SimpleData name="osm_id">373354962</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="operator">Queensland Rail</SimpleData>
+		<SimpleData name="service">siding</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1538587,-21.1665608 149.1539839,-21.1665763 149.1562799,-21.1668604 149.1564097,-21.166878 149.1573857,-21.1670106 149.1578637,-21.1670701 149.1593965,-21.1672591</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w734639641</SimpleData>
+		<SimpleData name="osm_id">734639641</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="tunnel">yes</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1586164,-21.1737819 149.1586513,-21.1735588</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w734639642</SimpleData>
+		<SimpleData name="osm_id">734639642</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1586513,-21.1735588 149.1587165,-21.1731419 149.1587524,-21.1729016 149.1588275,-21.1726915 149.1589364,-21.1724966 149.159026,-21.1723463 149.1591484,-21.1720574</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w734639645</SimpleData>
+		<SimpleData name="osm_id">734639645</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1592434,-21.169394 149.1591306,-21.1701778 149.1591026,-21.1703933 149.1590904,-21.1706355 149.1591145,-21.1708156 149.1591937,-21.1710536 149.1592233,-21.1712312 149.1592452,-21.1713659 149.1592603,-21.1714589</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w734639646</SimpleData>
+		<SimpleData name="osm_id">734639646</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1617268,-21.1791834 149.1621495,-21.1792771 149.1667281,-21.1798889</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w734639647</SimpleData>
+		<SimpleData name="osm_id">734639647</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1667334,-21.1798139 149.1633078,-21.1793569 149.162901,-21.1793374</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w734639648</SimpleData>
+		<SimpleData name="osm_id">734639648</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1617268,-21.1791834 149.162901,-21.1793374 149.166735,-21.1798549</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w734639650</SimpleData>
+		<SimpleData name="osm_id">734639650</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="usage">main</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1583753,-21.1878318 149.1586012,-21.1864035 149.158607,-21.1863642 149.1586216,-21.1862625 149.1586459,-21.1860998 149.159154,-21.1824148 149.159233,-21.1817562 149.1592376,-21.1814264 149.1592014,-21.1810016 149.1590794,-21.1804895 149.1587938,-21.1796444</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Mackay Rail Line</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1190937090</SimpleData>
+		<SimpleData name="osm_id">1190937090</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="usage">industrial</SimpleData>
+		<SimpleData name="service">spur</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1303182,-21.1657843 149.1307929,-21.1657074 149.1319239,-21.1655439 149.1364328,-21.1648582 149.1372321,-21.164734 149.1375762,-21.1646892 149.1378918,-21.1646553 149.1382869,-21.164645 149.1385692,-21.164659 149.1387815,-21.1646719 149.1390974,-21.16469 149.1439039,-21.1653204 149.1474015,-21.1657606 149.1481883,-21.165867 149.1496602,-21.1660709 149.150688,-21.166199 149.15143,-21.1662824 149.1534268,-21.1665067 149.1536795,-21.1665368 149.1538587,-21.1665608</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1204391719</SimpleData>
+		<SimpleData name="osm_id">1204391719</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="usage">main</SimpleData>
+		<SimpleData name="operator">Queensland Rail</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.159288,-21.1662977 149.1591859,-21.1659814 149.1590648,-21.1656657 149.1588224,-21.165137 149.1585291,-21.1647312 149.1583692,-21.1645425 149.1581711,-21.164348 149.1576347,-21.1638906 149.1566031,-21.1630061 149.1556692,-21.1620501</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1204391720</SimpleData>
+		<SimpleData name="osm_id">1204391720</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="usage">main</SimpleData>
+		<SimpleData name="operator">Queensland Rail</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1587938,-21.1796444 149.158574,-21.178977 149.1585203,-21.1787069 149.1584935,-21.1783292 149.1585042,-21.1778415 149.1585619,-21.1774881 149.1586144,-21.1770917</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1358293686</SimpleData>
+		<SimpleData name="osm_id">1358293686</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1584859,-21.1771273 149.158553,-21.1768809 149.1586491,-21.176516</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1358293687</SimpleData>
+		<SimpleData name="osm_id">1358293687</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1598646,-21.1686105 149.1597461,-21.1681747</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1358293688</SimpleData>
+		<SimpleData name="osm_id">1358293688</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1596925,-21.1678344 149.1595589,-21.1674692</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1358293689</SimpleData>
+		<SimpleData name="osm_id">1358293689</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1588514,-21.1755446 149.1590338,-21.1751207</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1358293690</SimpleData>
+		<SimpleData name="osm_id">1358293690</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1588514,-21.1755446 149.1588246,-21.1756405 149.1587725,-21.175819</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1358293691</SimpleData>
+		<SimpleData name="osm_id">1358293691</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1590303,-21.1741352 149.1590758,-21.1740251 149.1591492,-21.1738548</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1358293692</SimpleData>
+		<SimpleData name="osm_id">1358293692</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.159656,-21.1705972 149.1596327,-21.1707793 149.1595974,-21.1710166 149.1595194,-21.1715599 149.1593967,-21.1723917 149.1593003,-21.1730848 149.1592792,-21.1732013 149.1592586,-21.1733123 149.1592286,-21.1734361 149.1591733,-21.1736262</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#railway_rail">
+		<SimpleData name="full_id">w1358293693</SimpleData>
+		<SimpleData name="osm_id">1358293693</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="railway">rail</SimpleData>
+		<SimpleData name="service">yard</SimpleData>
+		<SimpleData name="gauge">1067</SimpleData>
+		<SimpleData name="electrified">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>149.1591973,-21.1718896 149.1587773,-21.1748426 149.1587519,-21.1750172 149.1587459,-21.1751126 149.1587395,-21.1752363 149.1587369,-21.1753662 149.1586913,-21.1757051</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
